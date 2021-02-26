@@ -7,7 +7,7 @@ Using JavaScript, HTML, CSS, and Bootstrap
 
 ## Overview and Parameters
 
-In this module we are asked to build a dynamic table using JavaScript and create a functional web site using HTML.  The design of the web site is to query a catalog of UFO sighting in a static database.
+In this module we are asked to build a dynamic table using JavaScript and create a functional website using HTML.  The design of the web site is to query a catalog of UFO sighting in a static database.
 
 ## Results:
 
