@@ -23,7 +23,7 @@ As an example she can search for any sighting in Benton, Arkansas
 
 ## Summary:
 
-The website provide greater filtering criteria than just the date, which allows the users a detail search for target sighting. I recommend incorporating any new sighting into the database. Our current database is limited to US sighting. The website should add another clickhandler() or modify the updatefilters() to return a message to the users when their input parameters are not in the database.
+The website provide greater filtering criteria than just the date, which allows the users a detail search for target sighting. I recommend incorporating any new sighting into the database. Our current database is limited to US sighting. The website should add another event-handler to return a message to the users when their input parameters are not in the database.
 
 ### Follow the data the truth is out there
 ![Screen-Shot-pixabay](https://github.com/JimmyJ-D/Module-11-UFO/blob/main/static/images/Screen-Shot-pixabay.png)
